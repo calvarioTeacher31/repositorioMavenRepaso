@@ -1,0 +1,11 @@
+{
+  "employee": {
+    "name": "Cesar",
+    "lastname": "Nakira",
+    "numCats": 2,
+    "height": 15.23,
+    "country": "Peru",
+    "married": true
+  }
+}
+

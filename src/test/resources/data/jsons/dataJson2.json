@@ -1,0 +1,17 @@
+{
+  "employee": {
+    "name": "Carlos",
+    "lastname": "Vargas",
+    "numCats": 2,
+    "height": 15.23,
+    "country": "Peru",
+    "married": true,
+    "favoriteBooks": [
+      "Lord of the barneys",
+      "Bob the builder",
+      "Goku and the seven pirates",
+      "Nostradamus on the wonderland"
+    ]
+  }
+}
+

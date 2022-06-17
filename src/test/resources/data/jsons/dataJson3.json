@@ -1,0 +1,33 @@
+{
+  "employee": {
+    "name": "Carlos",
+    "lastname": "Vargas",
+    "numCats": 2,
+    "height": 15.23,
+    "country": "Peru",
+    "married": true,
+    "favoriteBooks": [
+      "Lord of the barneys",
+      "Bob the builder",
+      "Goku and the seven pirates",
+      "Nostradamus on the wonderland"
+    ],
+    "videoGames": [
+      {
+        "name": "zelda",
+        "genre": "adventure",
+        "year": 1980
+      },
+      {
+        "name": "mario",
+        "genre": "platform",
+        "year": 1977
+      },
+      {
+        "name": "metroid",
+        "genre": "puzzle",
+        "year": 1982
+      }
+    ]
+  }
+}

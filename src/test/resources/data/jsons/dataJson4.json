@@ -1,0 +1,59 @@
+{
+  "employee": {
+    "name": "Carlos",
+    "lastname": "Vargas",
+    "numCats": 2,
+    "height": 15.23,
+    "country": "Peru",
+    "married": true,
+    "favoriteBooks": [
+      "Lord of the barneys",
+      "Bob the builder",
+      "Goku and the seven pirates",
+      "Nostradamus on the wonderland"
+    ],
+    "videoGames": [
+      {
+        "name": "zelda",
+        "genre": "adventure",
+        "year": 1980
+      },
+      {
+        "name": "mario",
+        "genre": "platform",
+        "year": 1977
+      },
+      {
+        "name": "metroid",
+        "genre": "puzzle",
+        "year": 1982
+      }
+    ],
+    "hobbies": {
+      "sleep": {
+        "priority": 1,
+        "description": "some description to sleep",
+        "hours_per_day": 8,
+        "active": true
+      },
+      "study": {
+        "priority": 2,
+        "description": "some description to study",
+        "hours_per_day": 2,
+        "active": false
+      },
+      "eat": {
+        "priority": 3,
+        "description": "some description to eat",
+        "hours_per_day": 1,
+        "active": true
+      },
+      "teach": {
+        "priority": 4,
+        "description": "some description to teach",
+        "hours_per_day": 3,
+        "active": true
+      }
+    }
+  }
+}
