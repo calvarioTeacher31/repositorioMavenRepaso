@@ -57,5 +57,9 @@ public class Logs {
     public void debug(String message) {
         log.debug(message);
     }
+
+    public void trace(String message) {
+        log.trace(message);
+    }
 }
 
